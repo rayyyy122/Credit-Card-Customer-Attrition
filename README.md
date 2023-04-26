@@ -1,1 +1,1 @@
-# STAT-306-Project
+# Modeling Credit Card Churning from Customer Data
